@@ -1,3 +1,6 @@
+*.sql linguist-detectable=true
+*.sql linguist-language=sql
+  
 SELECT
   product_id,
   10 AS price
